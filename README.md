@@ -1,8 +1,7 @@
 # Facial Emotion Recognition Using EAC
-## AI Project Group 12
 This repository is dedicated to the project on Facial Emotion Recognition using the cut of edge technique EAC with two main backbones: ResNet50 and MobileNet_V2. The primary goal of this project is to recognize emotion through live video and compare the accuracy and efficiency of this approach with existing state-of-the-art methods.
 
-## Video AI Project
+## Video Project
 You can download the files .mp4 to watch or you can access through this [link](https://drive.google.com/drive/folders/1TXgji0IRz4T2ZutvCVo0HIo58q_lmufu?usp=sharing) on Google Drive 
 
 ## Approach
