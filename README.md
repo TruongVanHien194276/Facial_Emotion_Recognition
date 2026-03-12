@@ -49,14 +49,6 @@ Download the final pretrained weight [ResNet50_final_weight](https://drive.googl
         
 ```
 
-## Contributors
-- **Team members**:
-  - Hoàng Quốc Hưng
-  - Hoàng Khải Mạnh 
-  - Vũ Hải Đăng
-  - Nguyễn Minh Khôi
-  - Lê Đại Lâm 
-
 ## Project Structure
 ```
 ├── ...
@@ -70,7 +62,7 @@ Download the final pretrained weight [ResNet50_final_weight](https://drive.googl
 │  ├── model2.py           # Build Model with MobileNet_V2 as backbone
 │  ├── ui.py               # UI 
 |  ├── ...
-├── Video                  # Guideline Video and Demo Video
+├── Set up - Video                  # Guideline Video and Demo Video
 └── ...
 
 ```
